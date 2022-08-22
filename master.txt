@@ -1,0 +1,1 @@
+Edit master.txt on private branch, stage and commit
